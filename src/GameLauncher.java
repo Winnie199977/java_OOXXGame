@@ -2,7 +2,9 @@
 public class GameLauncher {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("**********Game Start!**********");
+		//印出ooxx，先有ooxx物件
+		ooxx t = new ooxx();
 
 	}
 
